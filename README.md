@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerretedHeart
-- 👀 I’m interested in learning all the things!
-- 🌱 I’m currently learning Angular 13
+- 👀 I’m interested in learning front end development!
+- 🌱 I’m currently learning React
 
 <!---
 FerretedHeart/FerretedHeart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
